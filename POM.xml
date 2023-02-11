@@ -1,0 +1,9 @@
+<dependencies>
+	
+	<dependency>
+		<groupid>org.junit.jupiter</groupid>
+		<artifactid>junit-jupiter</artifactid>
+		<version>5.9.2</version>
+	<dependency>
+	
+<dependencies>
