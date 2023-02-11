@@ -2,8 +2,14 @@
 	
 	<dependency>
 		<groupid>org.junit.jupiter</groupid>
-		<artifactid>junit-jupiter</artifactid>
+			<artifactid>junit-jupiter</artifactid>
 		<version>5.9.2</version>
+	</dependency>
+		
 	<dependency>
+		<groupId>org.hamcrest</groupId>
+    			<artifactId>java-hamcrest</artifactId>
+    		<version>2.0.0.0</version>
+	</dependency>
 	
-<dependencies>
+</dependencies>
